@@ -1,0 +1,23 @@
+#arreglo1{
+    display: flex;
+    justify-content:left;
+    align-items: center;
+    margin-left: 10%;
+}
+#arreglo2{
+    display: flex;
+    justify-content:right;
+    align-items: center;
+    margin-left: 10%;
+}
+body{
+    background-color: beige;
+}
+h1{color:rgb(145, 85, 45)}
+p{
+color:rgb(228, 151, 51);
+font-size: 135%;
+}
+h2{
+    color:rgb(145, 85, 45)
+}

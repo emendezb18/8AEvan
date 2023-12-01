@@ -1,0 +1,36 @@
+.body {
+    font-family:'Times New Roman', Times, serif;
+    background-color: antiquewhite;
+}
+
+
+.Encyclopedia {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-size: 40px;
+}
+
+.cambridge {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-style: oblique;
+}
+
+.national {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-size: 40px;
+}
+
+.timeline {
+    font-family:'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-size: 40px;
+}
+
+.britannica {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-size: 40px;
+}
+

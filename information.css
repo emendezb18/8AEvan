@@ -1,0 +1,44 @@
+body {
+    background-image: url(la\ 33.jpeg);
+    background-size: cover;
+}
+
+
+
+
+.texto {
+    margin-right: 50%;
+    margin-left: 10%;
+    font-family:'Times New Roman', Times, serif;
+    font-size:large;
+}
+
+.titulo {
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 5%;
+}
+
+.img6 {
+    margin-right:20%;
+    margin-top: 0.5%;
+    float: right;
+}
+
+.img12 {
+    margin-right:20%;
+    float:right;
+}
+
+.img10 {
+    float:left;
+    margin-left:20%;
+}
+
+.source1 {
+    margin-left:20%;
+}
+
+.source2 {
+    float:right;
+    margin-right:1%;
+}
